@@ -6,7 +6,7 @@
 git clone https://github.com/Allirey/test_task0411
 cd test_task0411/
 python3 -m venv venv
-source bin/venv/activate
+source venv/bin/activate
 pip install -r requirements.txt
  ```
 
