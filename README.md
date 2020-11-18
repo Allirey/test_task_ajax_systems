@@ -1,10 +1,10 @@
-# Test task "Test Results"
+# Test task "Test Results" (Ajax Systems)
 
  Подготовка запуска проекта
  
  ```
-git clone https://github.com/Allirey/test_task0411
-cd test_task0411/
+git clone https://github.com/Allirey/test_task_ajax_systems
+cd test_task_ajax_systems/
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
